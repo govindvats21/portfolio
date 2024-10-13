@@ -1,0 +1,29 @@
+h1,h2,h3,h4{
+    font-family: "Rufina", serif;
+    font-family: "Poppins", sans-serif;
+}
+
+h1{
+    color: var(--heading);
+    font-size: 6rem;
+    font-weight: 600;
+}
+h3{
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+p{
+    color: var(--para);
+    font-size: 1.8rem;
+    line-height: 1.6;
+  
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
